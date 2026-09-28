@@ -5,7 +5,7 @@
 
 
 ## Caught!
-!(SIEM screen explaining the alert)[screenshots/alert.png]
+!(SIEM screen explaining the alert)[https://github.com/evsynack/tiny-siem-homelab/blob/main/screenshots/alert.png]
 Saw our generated Level 8 alert.
 `ubuntu-target` (light-colored block) was attacked by our attacking VM (Kali, red block) via Brute Force (rule.mitre.technique) 
 
